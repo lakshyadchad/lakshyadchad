@@ -1,17 +1,20 @@
 <h1 align="center">Hi 👋, I'm Lakshya Sharma</h1>
-<h3 align="center">A passionate AI and ML engineer from India</h3>
+<h3 align="center">A AI and ML enthusiast for Quant engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshyadchad&label=Profile%20views&color=0e75b6&style=flat" alt="lakshyadchad" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakshyadchad" alt="lakshyadchad" /></a> </p>
 
+
+- 🏆 Grand finalist of **Smart India Hackathon** 
+
 - 🔭 I’m currently working on **machine learning**
 
-- 🌱 I’m currently learning **data structures and algorithms**
+- 🌱 I’m currently learning **Maths and DSA**
 
-- 👯 I’m looking to collaborate on **AI and ML and data structures and algorithms**
+- 👯 I’m looking to collaborate on **AI/ML and Quantitative Field**
 
-- 💬 Ask me about **python and js**
+- 💬 Ask me about **python and C++**
 
 - 📫 How to reach me **lakshyadzero@gmail.com**
 
