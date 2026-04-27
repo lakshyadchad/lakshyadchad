@@ -75,17 +75,17 @@
 
 ## ✍️ **Medium Articles**
 
-👉 **[Read my latest work on Medium](https://medium.com/@samridhiraj04)**
+👉 **[Completed my First Internship on site](https://www.linkedin.com/in/lakshyasharma-wisdom/overlay/Position/2899307172/treasury/?profileId=ACoAAERyP6ABZkFapLzDj9IzyubdSdsnR1nUKt8)**
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3am4xZjF2NzRuZDhzajh1c2NranNrYjA3bnJtdmxhcGFqZW00cTlucCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kS056c2dvD1n9iGNcs/giphy.gif" />
 </p>
 
 ---
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20With-Love%20%26%20AI-FF6EC7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20Source%20-Enthusiast-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Always%20Learning-FFD700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Move%20With-Finance%20%26%20AI-5cacff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Looking%20Upto%20-Fintech-5cceff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Always%20Learning-4deaff?style=for-the-badge" />
 </p>
 
 ---
