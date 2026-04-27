@@ -55,20 +55,20 @@
 ## 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sam22ridhi&show_icons=true&theme=radical&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam22ridhi&layout=compact&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lakshyadchad&show_icons=true&theme=radical&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyadchad&layout=compact&theme=radical" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sam22ridhi&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=lakshyadchad&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sam22ridhi&theme=dracula&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lakshyadchad&theme=dracula&margin-w=10&margin-h=10" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sam22ridhi&theme=dracula" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshyadchad&theme=dracula" />
 </p>
 
 ---
