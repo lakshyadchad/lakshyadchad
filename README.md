@@ -19,9 +19,9 @@
 * 🔭 Currently building Fintech projects.
 * 📚 Finance-oriented, exploring cutting-edge AI trends.
 * 👯 Open to collaborations in ML, Blockchain, and AI agents.
-  ✉️ **[lakshyadzero@gmail.com](mailto:lakshyadzero@gmail.com)**
-  🔗 **[LinkedIn](https://www.linkedin.com/in/lakshyasharma-wisdom)**
-  🐦 **[Twitter](https://instagram.com/lakshyadzero)**
+* ✉️ **[lakshyadzero@gmail.com](mailto:lakshyadzero@gmail.com)**
+* 🔗 **[LinkedIn](https://www.linkedin.com/in/lakshyasharma-wisdom)**
+* 🐦 **[Twitter](https://instagram.com/lakshyadzero)**
 
 
 <p align="center">
